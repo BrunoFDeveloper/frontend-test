@@ -2,7 +2,7 @@
 
 Crie um app mobile ou site web que servirá como um blog de publicações e comentários.
 
-### O que precisa ser feito
+### O que precisa ser feitoo
 
 - [ ]  Consumir a lista de posts onde:
     - Cada post possui um autor usuário e deverá ter um título, descrição e informar qual foi o usuário autor;
